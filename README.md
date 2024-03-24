@@ -11,18 +11,22 @@ V4_0Z,
 Sync Developments ©(2021-2024) Founder
 
 
-# Update log 4 (v5.0.5): Security Changes
+# Update log 5 (v1 - REFRESH): Security Changes and VPN refresh!
 
-1. New password is 3598
+1. Now called VangaurdVPN®️ 
 
-2. Haven't changed much, less errors (i think) but theres a slight delay on loading
+2. New login and user security also a new "Failed Login" screen
+   
+3. Addressed some security issues
+   
+4. New complier
+   
+5. Servers now auto-update periodically for maximum security!
 
-3. Addressed a security issue that had to be implemented
 
-
-# TO BE ADDED NEXT UPDATE:
+# TO DO LIST:
 
 1. Automated user verification
-2. Accounts + passwords??
-3. Automatic VPN renewal (not paid)
+2. Accounts + passwords?? ✅
+3. Automatic VPN renewal (not paid) ✅
 4. Premium VPN version??
