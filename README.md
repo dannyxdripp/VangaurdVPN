@@ -1,4 +1,4 @@
-# V4VPN
+# Vangaurd VPN - Your online security solution
 
 Hello there!
 
