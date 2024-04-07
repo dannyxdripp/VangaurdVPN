@@ -26,7 +26,8 @@ Sync Developments ©(2021-2024) Founder
 
 # TO DO LIST:
 
-1. Automated user verification
+1. Automated user verification ✅
 2. Accounts + passwords?? ✅
-3. Automatic VPN renewal (not paid) ✅
-4. Premium VPN version??
+3. Auto update ✅
+4. Automatic VPN renewal (not paid) ✅
+5. Premium VPN version??
